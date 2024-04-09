@@ -1,7 +1,7 @@
 {
   "name": "@wangxukun/directory_manager",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CLI directory manager that can be used to create directories, list directory contents and create files",
   "main": "dist/index.js",
   "bin": {
     "dirmanager": "./dist/index.js"
